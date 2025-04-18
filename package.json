@@ -1,0 +1,33 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This a react js app created by Amit Sharma",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitk0551/Namaste-React.git"
+  },
+  "keywords": [
+    "ReactJS"
+  ],
+  "author": "Amit Kumar Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitk0551/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/amitk0551/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
